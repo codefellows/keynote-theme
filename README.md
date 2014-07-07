@@ -1,4 +1,4 @@
-keynote-template
-================
+Code Fellows Keynote Theme v0.2.0
+=================================
 
-A Code Fellows themed Keynote template
+To install, download and double-click the `Code Fellows.kth` file.
